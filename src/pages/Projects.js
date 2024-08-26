@@ -29,10 +29,10 @@ const Projects = () => {
                     <h2>Skin cancer</h2>
                 </div>
                 <div className="project-item">
-                    <a href="http://link-to-project4.com" target="_blank" rel="noopener noreferrer">
+                    <a href="https://huggingface.co/spaces/mdalakeys/diabeticsRec" target="_blank" rel="noopener noreferrer">
                         <img src={project4} alt="Project 4" />
                     </a>
-                    <h2>Heart rate monitoring</h2>
+                    <h2>Diabetics</h2>
                 </div>
             </div>
         </div>

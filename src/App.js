@@ -20,9 +20,7 @@ function App() {
                     <Route path="/" element={<Projects />} />
                  
                 </Routes>
-                <footer>
-                    <p>&copy; 2024 My Portfolio. All rights reserved.</p>
-                </footer>
+                
             </div>
         </Router>
     );
