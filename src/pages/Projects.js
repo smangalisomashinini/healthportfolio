@@ -35,7 +35,7 @@ const Projects = () => {
                
                 
                 <div className="project-item">
-                    <a href="https://1541a8f810545f6c49.gradio.live" target="_blank" rel="noopener noreferrer">
+                    <a href="https://https://61f288f009918e941b.gradio.live" target="_blank" rel="noopener noreferrer">
                         <img src={project3} alt="Project 3" />
                     </a>
                     <h2>Skin cancer detection</h2>
