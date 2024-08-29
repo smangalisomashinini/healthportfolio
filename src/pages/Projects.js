@@ -19,25 +19,28 @@ const Projects = () => {
                     <h2>Pneumonia-detection</h2>
                 </div>
                 <div className="project-item">
+                    <a href="https://508508378f2372a01f.gradio.live" target="_blank" rel="noopener noreferrer">
+                        <img src={project2} alt="Project 2" />
+                    </a>
+                    <h2>Brain tumor-detection</h2>
+                </div>
+               
+              
+                <div className="project-item">
                     <a href="https://huggingface.co/spaces/mdalakeys/diabeticsRec" target="_blank" rel="noopener noreferrer">
                         <img src={project4} alt="Project 4" />
                     </a>
                     <h2>Diabetic Retinopathy Detection</h2>
                 </div>
                
+                
                 <div className="project-item">
                     <a href="https://1541a8f810545f6c49.gradio.live" target="_blank" rel="noopener noreferrer">
                         <img src={project3} alt="Project 3" />
                     </a>
                     <h2>Skin cancer detection</h2>
                 </div>
-               
-                <div className="project-item">
-                    <a href="https://508508378f2372a01f.gradio.live" target="_blank" rel="noopener noreferrer">
-                        <img src={project2} alt="Project 2" />
-                    </a>
-                    <h2>Brain tumor-detection</h2>
-                </div>
+
             </div>
             <div className="projects-grid">
                 <div className="project-item">
