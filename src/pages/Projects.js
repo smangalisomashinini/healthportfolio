@@ -19,7 +19,7 @@ const Projects = () => {
                     <h2>Pneumonia-detection</h2>
                 </div>
                 <div className="project-item">
-                    <a href="https://508508378f2372a01f.gradio.live" target="_blank" rel="noopener noreferrer">
+                    <a href="https://0df455fff7e4859815.gradio.live" target="_blank" rel="noopener noreferrer">
                         <img src={project2} alt="Project 2" />
                     </a>
                     <h2>Brain tumor-detection</h2>
