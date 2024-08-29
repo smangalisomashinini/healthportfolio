@@ -8,12 +8,12 @@ function App() {
         <Router>
             <div>
                 <header>
-                    <h1>My Health Project Portfolio</h1>
+                    <h1>TUT AI-HEALTH REVOLUTION</h1>
                 </header>
                 <nav>
                     <ul>
                         
-                        <li><Link to="/">Projects</Link></li>
+                        <li><Link to="/"><h1>Redefining the Future of Healthcare</h1></Link></li>
                     </ul>
                 </nav>
                 <Routes>
