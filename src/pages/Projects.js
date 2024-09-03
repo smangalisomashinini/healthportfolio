@@ -13,13 +13,13 @@ const Projects = () => {
             <h1>Our Health Projects</h1>
             <div className="projects-grid">
                 <div className="project-item">
-                    <a href="https://9a2f313fe8991dd97f.gradio.live" target="_blank" rel="noopener noreferrer">
+                    <a href="https://2996e8bff45ab191d4.gradio.live" target="_blank" rel="noopener noreferrer">
                         <img src={project1} alt="Project 1" />
                     </a>
                     <h2>Pneumonia-detection</h2>
                 </div>
                 <div className="project-item">
-                    <a href="https://0df455fff7e4859815.gradio.live" target="_blank" rel="noopener noreferrer">
+                    <a href="hhttps://60be83e87ed336ca2e.gradio.live" target="_blank" rel="noopener noreferrer">
                         <img src={project2} alt="Project 2" />
                     </a>
                     <h2>Brain tumor-detection</h2>
@@ -35,7 +35,7 @@ const Projects = () => {
                
                 
                 <div className="project-item">
-                    <a href="https://695fff9517f22fb5f1.gradio.live" target="_blank" rel="noopener noreferrer">
+                    <a href="https://fe8834f45793b5fc69.gradio.live" target="_blank" rel="noopener noreferrer">
                         <img src={project3} alt="Project 3" />
                     </a>
                     <h2>Skin cancer detection</h2>
