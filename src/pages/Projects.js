@@ -13,7 +13,7 @@ const Projects = () => {
             <h1>Our Health Projects</h1>
             <div className="projects-grid">
                 <div className="project-item">
-                    <a href="https://46b8d335228427fee3.gradio.live" target="_blank" rel="noopener noreferrer">
+                    <a href="https://d956f1f4110f5a6921.gradio.live" target="_blank" rel="noopener noreferrer">
                         <img src={project1} alt="Project 1" />
                     </a>
                     <h2>Pneumonia-detection</h2>
