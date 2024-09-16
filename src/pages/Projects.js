@@ -55,6 +55,12 @@ const Projects = () => {
                     </a>
                     <h2>heart disease prediction</h2>
                 </div>
+        <div className="project-item">
+                    <a href="https://huggingface.co/spaces/KhumaloKat/Heart-Disease-Prediction" target="_blank" rel="noopener noreferrer">
+                        <img src={project6} alt="Project 2" />
+                    </a>
+                    <h2>heart disease prediction</h2>
+                </div>
               
             </div>
         </div>
