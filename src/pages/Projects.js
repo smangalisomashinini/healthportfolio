@@ -6,6 +6,7 @@ import project3 from '../assets/images/project3.jpg';
 import project4 from '../assets/images/project7.jpg';
 import project5 from '../assets/images/heartrate.jpg';
 import project6 from '../assets/images/heartattack.jpg';
+import project7 from '../assets/images/heatmap.png';
 
 const Projects = () => {
     return (
@@ -57,9 +58,9 @@ const Projects = () => {
                 </div>
         <div className="project-item">
                     <a href="https://huggingface.co/spaces/KhumaloKat/Heart-Disease-Prediction" target="_blank" rel="noopener noreferrer">
-                        <img src={project6} alt="Project 2" />
+                        <img src={project7} alt="Project 2" />
                     </a>
-                    <h2>heart disease prediction</h2>
+                    <h2>pneumonia detection heatmap</h2>
                 </div>
               
             </div>
