@@ -57,7 +57,7 @@ const Projects = () => {
                     <h2>heart disease prediction</h2>
                 </div>
         <div className="project-item">
-                    <a href="https://huggingface.co/spaces/KhumaloKat/Heart-Disease-Prediction" target="_blank" rel="noopener noreferrer">
+                    <a href="http://127.0.0.1:7860" target="_blank" rel="noopener noreferrer">
                         <img src={project7} alt="Project 2" />
                     </a>
                     <h2>pneumonia detection heatmap</h2>
