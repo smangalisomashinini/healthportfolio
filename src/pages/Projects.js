@@ -6,7 +6,7 @@ import project3 from '../assets/images/project3.jpg';
 import project4 from '../assets/images/project7.jpg';
 import project5 from '../assets/images/heartrate.jpg';
 import project6 from '../assets/images/heartattack.jpg';
-import project7 from '../assets/images/heatmap.png';
+//import project7 from '../assets/images/heatmap.png';
 
 const Projects = () => {
     return (
