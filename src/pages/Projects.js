@@ -14,7 +14,7 @@ const Projects = () => {
             <h1>Our Health Projects</h1>
             <div className="projects-grid">
                 <div className="project-item">
-                    <a href="https://ce749093e3d66c3638.gradio.live" target="_blank" rel="noopener noreferrer">
+                    <a href="http://16.171.233.187" target="_blank" rel="noopener noreferrer">
                         <img src={project1} alt="Project 1" />
                     </a>
                     <h2>Pneumonia-detection</h2>
@@ -56,12 +56,7 @@ const Projects = () => {
                     </a>
                     <h2>heart disease prediction</h2>
                 </div>
-        <div className="project-item">
-                    <a href="http://16.171.233.187" target="_blank" rel="noopener noreferrer">
-                        <img src={project7} alt="Project 2" />
-                    </a>
-                    <h2>pneumonia detection heatmap</h2>
-                </div>
+       
               
             </div>
         </div>
