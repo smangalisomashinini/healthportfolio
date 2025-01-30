@@ -45,7 +45,7 @@ const Projects = () => {
             </div>
             <div className="projects-grid">
                 <div className="project-item">
-                    <a href="https://huggingface.co/spaces/kamogeloVutomi/breathing" target="_blank" rel="noopener noreferrer">
+                    <a href="https://huggingface.co/spaces/smangalisomashinini/breathing_rate" target="_blank" rel="noopener noreferrer">
                         <img src={project5} alt="Project 1" />
                     </a>
                     <h2>Breathing rate monitoring</h2>
